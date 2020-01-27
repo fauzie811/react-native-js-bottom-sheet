@@ -1,6 +1,6 @@
 {
   "name": "react-native-js-bottom-sheet",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description":
     "Modal bottom sheet component for Android that follows the guidelines of Material Design.",
   "author": "Antonio Moreno Valls <amoreno@apsl.net>",
@@ -34,7 +34,7 @@
   "dependencies": {
     "@types/react-native-modalbox": "^1.4.2",
     "@types/prop-types": "^15.5.1",
-    "react-native-modalbox": "^1.4.2",
+    "react-native-modalbox": "^1.7.1",
     "prop-types": "^15.5.10"
   },
   "devDependencies": {
